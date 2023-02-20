@@ -1,5 +1,5 @@
-// connecting keepAlive to the server.js file
+// Connecting keepAlive to the server.js file
 const keepAlive = require("./server")
 
-// start keepAlive
+// Start keepAlive
 keepAlive()
